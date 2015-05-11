@@ -39,16 +39,16 @@ MySQL
 	expurgarParcelasCanceladasEvento;
 	confirmarPagamento
 	cancelarPagamento
-
-   tipoContato
+	
+	tipoContato
      incluir
      editar 
 	 ativar
 	 inativar
 	 cancelar
 	 expurgar
-
-   user
+	 
+    user
      incluir
      editar
  	ativar
