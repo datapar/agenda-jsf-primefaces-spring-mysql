@@ -2,16 +2,19 @@
 Agenda de eventos:
 
 Tecnologias:
-##JSF
-##Primefaces
-##JPA
-##Hibernate
-##MySQL
+JSF
+Primefaces
+JPA
+Hibernate
+MySQL
 
 
-##contato 0 ativo 1 inativo -1 cancelado
 
 #Funcionalidades
+    
+    contato: 0 ativo 1 inativo -1 cancelado
+    evento: -1 cancelado 0 aguardando 1 confirmado 2 realizado 
+    pagamento: 0 aberto 1 pago -1 cancelado
 
     incluirContato
     editarContato
@@ -19,10 +22,6 @@ Tecnologias:
 	inativarContato
 	cancelarContato
 	expurgarContatosCancelados
-
-##evento -1 cancelado 0 aguardando 1 confirmado 2 realizado 
-
-##pagamento 0 aberto 1 pago -1 cancelado
 
     incluirEvento
     editarEvento
@@ -40,8 +39,7 @@ Tecnologias:
 	confirmarPagamento
 	cancelarPagamento
 
-
-##tipoContato
+  tipoContato
     incluir
     editar
 	ativar
@@ -49,7 +47,7 @@ Tecnologias:
 	cancelar
 	expurgar
 
-	user
+  user
     incluir
     editar
 	ativar
