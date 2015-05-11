@@ -54,4 +54,3 @@ MySQL
 	inativar
 	cancelar
 	expurgar
-
