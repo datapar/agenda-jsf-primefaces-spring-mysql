@@ -31,6 +31,7 @@ MySQL
 	expurgarEventoCancelado
 	quitarEvento;
 	gerarParcelaEvento
+	
     incluirParcelaEvento
     editarParcelaEvento
 	excluirPascelaEvento
@@ -39,18 +40,18 @@ MySQL
 	confirmarPagamento
 	cancelarPagamento
 
-  tipoContato
-    incluir
-    editar
-	ativar
-	inativar
-	cancelar
-	expurgar
+   tipoContato
+     incluir
+     editar 
+	 ativar
+	 inativar
+	 cancelar
+	 expurgar
 
-  user
-    incluir
-    editar
-	ativar
-	inativar
-	cancelar
-	expurgar
+   user
+     incluir
+     editar
+ 	ativar
+ 	inativar
+ 	cancelar
+ 	expurgar
